@@ -195,6 +195,22 @@ span {
 .box-content:hover p{
     color: #d2622e;
 }
+.box-img_4 {
+    height: 122px; 
+    width: 125px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+    align-items:flex-end;
+    padding: 10px 0px 5px;
+    margin: 15px;
+    font-size: 15px;
+    font-weight: 400  ;
+}
+.box_4img {
+    display:flex;
+    flex-wrap: wrap;
+}
 
 /*Footer*/
 footer {
